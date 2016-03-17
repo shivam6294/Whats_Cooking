@@ -10,3 +10,6 @@ The competition is a multi-class classification competition with a lot of(19)  c
 # Dependencies
 Please make sure that your have all the files from the website in a folder Telstra_data , located in the folder where your IPython Notebook is located.
 Please make sure that you have XGBoost Installed. (Good luck if you're a windows user!)
+
+<b>ACKNOWLEDGEMENTS:</b>
+* Tejas Rai: Sparse Binary Matrix Feature Representation

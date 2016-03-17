@@ -1,5 +1,5 @@
 # [What's Cooking](https://www.kaggle.com/c/whats-cooking) Kaggle Competition
-* This is my attempt at the What's Cooking Kaggle Competition, which was my first kaggle competition attempt. 
+* This was my attempt at the What's Cooking Kaggle Competition, also my first ever kaggle competition attempt. 
 * The aim at the time was to get familiar with various ML classifiers and their parameters.
 
 The entire solution is containted in:
